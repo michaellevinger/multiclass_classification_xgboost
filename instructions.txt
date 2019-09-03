@@ -1,0 +1,16 @@
+The classes:
+
+1.Readmitted within 30 days of discharge.
+
+2.Readmitted after 30 days of discharge.
+
+3.No readmission.
+
+ 
+The goal is to build a classifier (using Python).
+
+ 
+
+ 
+
+
